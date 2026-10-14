@@ -1,4 +1,4 @@
-# 👋 p-minsu
+# 👋 b-bine-blog
 
 여러 사람이 함께 쓰는 블로그 플랫폼 **b-bine blog**를 만드는 팀입니다.
 
